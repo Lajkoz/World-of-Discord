@@ -1,0 +1,24 @@
+{
+  "name": "world-of-discord",
+  "version": "1.0.0",
+  "description": "https://github.com/Lajkoz/World-of-Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lajkoz/World-of-Discord.git"
+  },
+  "author": "LyKoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lajkoz/World-of-Discord/issues"
+  },
+  "homepage": "https://github.com/Lajkoz/World-of-Discord#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.2"
+  }
+}
