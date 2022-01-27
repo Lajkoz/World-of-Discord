@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/Lajkoz/World-of-Discord#readme",
   "dependencies": {
+    "ascii-table": "^0.0.9",
     "chalk": "^2.4.1",
     "discord.js": "^13.6.0",
-    "dotenv": "^14.3.2"
+    "dotenv": "^14.3.2",
+    "glob": "^7.2.0",
+    "util": "^0.12.4"
   }
 }
